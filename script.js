@@ -12,8 +12,10 @@ const audio = document.getElementById("audio");
     { title: "Singari", desc: "Sai Abhyankar,Dude", src: "songs/song6.mp3" },
     { title: "Nakka Mukka", desc: "Vijay Antony,Kadhalil Vilundhen", src: "songs/song7.mp3" },
     { title: "Yaaradhu", desc: "Karthick,Kaavalan", src: "songs/song8.mp3" },
-    { title: "Udhungada Sangu", desc: "Anirudh Ravichandran,VIP", src: "songs/song8.mp3" },
-    { title: "pattamboochi", desc: "KK,Rita,Kaavalan", src: "songs/song9.mp3" },
+    { title: "Udhungada Sangu", desc: "Anirudh Ravichandran,VIP", src: "songs/song9.mp3" },
+    { title: "pattamboochi", desc: "KK,Rita,Kaavalan", src: "songs/song10.mp3" },
+    { title: "Un Vizhigalil", desc: "Anirudh,Maan Karate", src: "songs/song11.mp3" },
+    { title: "Veredhuvum Thevai Illai", desc: "Sidsriram,Kadaram kondan", src: "songs/song12.mp3" },
   ];
 
   let index = 0;
